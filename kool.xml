@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kool>
+	<klassid>
+		<klass>
+		</klass>
+
+		<klass></klass>
+		<klass></klass>
+	</klassid>
+	<õpetajad>
+		<õpetaja>
+		</õpetaja>
+		<õpetaja>
+		</õpetaja>
+		<õpetaja>
+		</õpetaja>
+	</õpetajad>
+	<õpilased>
+
+		<õpilane>
+		</õpilane>
+		<õpilane>
+		</õpilane>
+	</õpilased>
+</kool>

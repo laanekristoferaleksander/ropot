@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kool>
 	<klassid>
-		<klass>
+		<klass id="3a">
 		</klass>
 
-		<klass></klass>
-		<klass></klass>
+		<klass id="4a"></klass>
+		<klass id="2a"></klass>
 	</klassid>
 	<õpetajad>
-		<õpetaja>
+		<õpetaja nimi="reino">
 		</õpetaja>
-		<õpetaja>
+		<õpetaja nimi="mari">
 		</õpetaja>
-		<õpetaja>
+		<õpetaja nimi="kati">
 		</õpetaja>
 	</õpetajad>
 	<õpilased>
 
-		<õpilane>
+		<õpilane nimi="kristofer">
 		</õpilane>
-		<õpilane>
+		<õpilane nimi="greg">
 		</õpilane>
 	</õpilased>
 </kool>
